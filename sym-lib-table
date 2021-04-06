@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name JaguarAV)(type Legacy)(uri ${KIPRJMOD}/JaguarAV.lib)(options "")(descr ""))
+)

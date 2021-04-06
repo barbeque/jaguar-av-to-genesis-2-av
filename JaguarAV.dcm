@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JaguarAV_24
+D 24-pin AV connector for an Atari Jaguar
+$ENDCMP
+#
+#End Doc Library
