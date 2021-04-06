@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name JaguarAV)(type KiCad)(uri ${KIPRJMOD}/JaguarAV.pretty)(options "")(descr ""))
+  (lib (name MD-90S)(type KiCad)(uri ${KIPRJMOD}/MD-90S)(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/logos)(options "")(descr ""))
 )
