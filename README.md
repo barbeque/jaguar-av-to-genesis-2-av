@@ -17,7 +17,7 @@ It was developed as part of a [Leaded Solder](https://www.leadedsolder.com) blog
 You can import the BOM using [the included CSV file](v0.1-bom.csv).
 
 ## Getting Started
- 1. Download the latest Gerber files from [the Releases page](releases), and order the PCB from a fabrication house. I like Osh Park, JLCPCB, and PCBWay, but any shop should be able to make a board this simple.
+ 1. Download the latest Gerber files from [the Releases page](https://github.com/barbeque/jaguar-av-to-genesis-2-av/releases), and order the PCB from a fabrication house. I like Osh Park, JLCPCB, and PCBWay, but any shop should be able to make a board this simple.
  2. Purchase the components listed in the BOM list above, and solder them to the board. You will need to "squish" the pins on the female edge connector in order to reach the pads on the PCB. I used a pair of needle-nose pliers, but there is probably a better method.
  3. Attach a Genesis Model 2 AV cable to the output, and plug the board into the back of your Atari Jaguar with the Genesis AV port facing up.
  4. Enjoy!
