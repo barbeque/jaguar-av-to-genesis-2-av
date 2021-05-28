@@ -1,6 +1,8 @@
 # Atari Jaguar AV connector to Sega Genesis/Megadrive Model 2 AV cable adapter
 This adapter allows you to use an inexpensive Sega Genesis Model 2 AV cable on an Atari Jaguar, instead of the costly (and becoming harder to find) original Atari-branded cables.
 
+It was developed as part of a [Leaded Solder](https://www.leadedsolder.com) blog entry.
+
 ![Tempest 2000 running on composite output](/shots/jaguar-tempest-2000.jpg)
 
 ![The v0.1 AV adapter, soldered together](/shots/jaguar-av-adapter-soldered.jpg)
