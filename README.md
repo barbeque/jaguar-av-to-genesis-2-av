@@ -1,6 +1,8 @@
 # Atari Jaguar AV connector to Sega Genesis/Megadrive Model 2 AV cable adapter
 This adapter allows you to use an inexpensive Sega Genesis Model 2 AV cable on an Atari Jaguar, instead of the costly (and becoming harder to find) original Atari-branded cables.
 
+RGB has been confirmed to work, with the Insurrection Industries SCART cable. See the "Known Issues" section below for some caveats.
+
 It was developed as part of a [Leaded Solder](https://www.leadedsolder.com) blog entry.
 
 ![Tempest 2000 running on composite output](/shots/jaguar-tempest-2000.jpg)
@@ -26,7 +28,7 @@ You can import the BOM using [the included CSV file](v0.1-bom.csv).
 Pull requests are _very_ welcome.
 
  * +5VDC is not generated from the Jaguar's +9VDC, so if your upscaler, television, or cables depend on the presence of the +5V pin in order to work (e.g. SCART) the output will not be detected.
- * S-Video and RGB are not yet tested.
+ * S-Video is not yet tested.
 
 ## Version History
  * v0.1 (May 2021): First functional version. Tested with NTSC composite video and sound.
